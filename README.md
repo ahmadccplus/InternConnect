@@ -2,6 +2,8 @@
 
 A platform for connecting students and companies for internships.
 
+Demo Available [Here](https://intern-connect-sigma.vercel.app/)
+
 ## Tech Stack
 
 - **Frontend:** React (with TypeScript), Vite, Tailwind CSS
